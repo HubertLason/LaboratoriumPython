@@ -5,5 +5,9 @@ if b<a:
     a,b=b,a
 
 while b>=a:
-    print(a,end=' ')
-    a=a+1
+    if a%2==0:
+        print(a,end=' ')
+        a=a+1
+    else:
+        a=a+1
+        continue
