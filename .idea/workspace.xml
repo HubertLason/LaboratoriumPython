@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d56aff9e-beb1-4fc3-a588-3439dc174f39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/sprawdzian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/zad9a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/zad5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/zad6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/zad6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/zad7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/zad7.py" afterDir="false" />
-    </list>
+    <list default="true" id="d56aff9e-beb1-4fc3-a588-3439dc174f39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666696424817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rozwiązania zadań">
+      <created>1668514275943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668514275944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
