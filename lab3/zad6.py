@@ -9,6 +9,6 @@ while True:
     else:
         suma=suma+b
         n=n+1
-        continue
+
 
 print (suma/n)
