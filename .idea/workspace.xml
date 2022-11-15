@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d56aff9e-beb1-4fc3-a588-3439dc174f39" name="Changes" comment="" />
+    <list default="true" id="d56aff9e-beb1-4fc3-a588-3439dc174f39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab4/zad5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/zad5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668514275944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="rozwiązania zadań">
+      <created>1668514316624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668514316624</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
