@@ -37,7 +37,7 @@ for i in range(15):
 
 print(f"Ilość osób powyżej średniej: {powyzej}")
 print(f"Ilość osób poniżej średniej: {ponizej}")
-print(f"Punkty powyżej średniej{powy}")
-print(f"Punkty poniżej średniej{poni}")
+print(f"Punkty powyżej średniej: {powy}")
+print(f"Punkty poniżej średniej: {poni}")
 
 
