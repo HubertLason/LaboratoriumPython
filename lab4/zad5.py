@@ -11,7 +11,7 @@ print(min(punkty))
 
 a=float(input("Podaj liczbę punktów: "))
 
-if punkty.count(a)>0:
+if a in punkty:
     print(punkty.index(a))
 else:
     print("Taka liczba punktów nie występuje na liście")
